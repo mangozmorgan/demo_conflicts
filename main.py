@@ -1,1 +1,1 @@
-la_variable = 2
+ma_variable = "Hola"
